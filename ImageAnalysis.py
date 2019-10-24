@@ -1,7 +1,5 @@
 """
-1731891
 Trey Michaels
-Section AB
 
 This file is used to conduct data analysis involving image data to get
 an idea of what image analysis can look like.
